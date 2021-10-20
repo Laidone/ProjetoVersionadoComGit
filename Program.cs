@@ -8,6 +8,7 @@ namespace ProjetoVersionadoComGit
         {
             Console.WriteLine("Hello, World!");
             System.Console.WriteLine(DateTime.Now.ToLongDateString());
+            System.Console.WriteLine("Versão da aplicação 1.0");
         }
     }
 }
